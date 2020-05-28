@@ -1,7 +1,7 @@
 Backend
 
-http://localhost:5000/api/auth/login
-http://localhost:5000/api/category
+/api/auth/login
+/api/category
 
 Frontend
 
