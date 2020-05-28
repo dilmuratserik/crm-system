@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bd32f4f5-a962-4855-8887-053ea2a43b39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/e2e/protractor.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +117,7 @@
       <workItem from="1588182349853" duration="2067000" />
       <workItem from="1590622188672" duration="348000" />
       <workItem from="1590622825010" duration="9333000" />
-      <workItem from="1590632842127" duration="943000" />
+      <workItem from="1590632842127" duration="1723000" />
     </task>
     <servers />
   </component>
@@ -145,6 +145,10 @@
     </state>
     <state x="790" y="143" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1590623214534" />
     <state x="1091" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1585017189887" />
+    <state x="1070" y="290" key="#Notifications" timestamp="1590633897800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1070" y="290" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1590633897800" />
     <state x="828" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585105982851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -185,10 +189,10 @@
     <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590631714650" />
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588079144285" />
     <state x="461" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584142242123" />
-    <state x="784" y="200" width="700" height="534" key="find.popup" timestamp="1590628961950">
+    <state x="784" y="200" width="700" height="534" key="find.popup" timestamp="1590634539062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="784" y="200" width="700" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1590628961950" />
+    <state x="784" y="200" width="700" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1590634539062" />
     <state x="980" y="252" width="875" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586100305430" />
     <state x="1096" y="244" key="run.anything.popup" timestamp="1584126702965">
       <screen x="0" y="0" width="1920" height="1040" />
