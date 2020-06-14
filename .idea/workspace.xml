@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd32f4f5-a962-4855-8887-053ea2a43b39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +123,7 @@
       <workItem from="1590804508103" duration="5000" />
       <workItem from="1590805364338" duration="659000" />
       <workItem from="1591889544006" duration="1383000" />
-      <workItem from="1592173800980" duration="2591000" />
+      <workItem from="1592173800980" duration="3850000" />
     </task>
     <servers />
   </component>
@@ -196,10 +195,10 @@
     <state x="369" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590631714650" />
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588079144285" />
     <state x="461" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584142242123" />
-    <state x="784" y="200" width="700" height="534" key="find.popup" timestamp="1592177160854">
+    <state x="784" y="200" width="700" height="534" key="find.popup" timestamp="1592178413838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="784" y="200" width="700" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592177160854" />
+    <state x="784" y="200" width="700" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592178413838" />
     <state x="980" y="252" width="875" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586100305430" />
     <state x="1096" y="244" key="run.anything.popup" timestamp="1584126702965">
       <screen x="0" y="0" width="1920" height="1040" />
